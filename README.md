@@ -53,7 +53,12 @@ GET /lists
 GET /lists/{list_id}
 [{"description":"t1","priority":0,"todolist_id":"1","done":false,"id":1},{"description":"t2","priority":3,"todolist_id":"1","done":false,"id":2},{"description":"t3","priority":2,"todolist_id":"1","done":false,"id":3}]
 
+```
 
+And there is also swagger:
+
+```bash
+http://localhost:5000/docs#/
 ```
 
 [AppDemo.webm](https://github.com/robertos1232/ToDoList/assets/40420170/f1ea39b6-bc80-4ae2-bd41-2d84b1572e72)
