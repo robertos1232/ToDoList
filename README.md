@@ -56,7 +56,7 @@ GET /lists/{list_id}
 
 ```
 
-
+[AppDemo.webm](https://github.com/robertos1232/ToDoList/assets/40420170/f1ea39b6-bc80-4ae2-bd41-2d84b1572e72)
 
 
 
@@ -66,6 +66,6 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-[AppDemo.webm](https://github.com/robertos1232/ToDoList/assets/40420170/f1ea39b6-bc80-4ae2-bd41-2d84b1572e72)
+
 
 
