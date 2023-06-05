@@ -29,7 +29,7 @@ chmod +x main.py
 
 ## Api
 Our application also have api on port 5000. We are using fastapi :)
-![Screenshot from 2023-06-05 21-13-23](https://github.com/robertos1232/ToDoList/assets/40420170/4ffbc8a2-a4a1-471e-958a-6c664d682697)
+![Screenshot from 2023-06-05 21-13-23](https://github.com/robertos1232/ToDoList/assets/40420170/ffe7665a-4dae-4286-b148-6be0a5aacb19)
 
 
 ```bash
@@ -66,5 +66,6 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+[AppDemo.webm](https://github.com/robertos1232/ToDoList/assets/40420170/f1ea39b6-bc80-4ae2-bd41-2d84b1572e72)
 
-[AppDemo.webm](https://github.com/robertos1232/ToDoList/assets/40420170/09815d7a-0b96-4c10-9b8f-e2ec2c9a76e6)
+
