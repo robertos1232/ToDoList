@@ -1,5 +1,5 @@
 # ToDoList
-This is a todo project in python for study. This app is simplicity and beauty
+This is a todo project in python for study. This app is simplicity and beauty.
 
 ## Installation
 Please use git clone to your favorit folder.
